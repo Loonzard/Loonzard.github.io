@@ -62,22 +62,6 @@ __Illinois Institute of Technology, Chicago, IL.__
 - Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)
 
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
 `1600`
@@ -89,6 +73,14 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
+
+## Languages
+
+- English 
+- German (Basic)
+- Polish 
+- Lithuanian
+- Russian
 
 
 <!-- ### Footer
