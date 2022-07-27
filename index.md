@@ -13,7 +13,7 @@ Network Engineer, IIT Grad Student
 
 ## Currently
 
-Standing on the shoulders of giants
+Graduate Student of Cyber Forensics and Security (M.A.S.) at Illinois Insitute of Technology
 
 ### Specialized in
 
@@ -27,18 +27,15 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2020`
+__AGH University of Science and Technology, Kraków, Poland.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BSc in Electronics and Telecommunications
 
-- Sizar
+`August 2022 - now`
+__Illinois Institute of Technology, Chicago, IL.__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- M.A.S in Cyber Forensics and Security
 
 
 
