@@ -39,18 +39,27 @@ __Illinois Institute of Technology, Chicago, IL.__
 
 
 
-## Awards
+## Certifications
 
-`2012`
-President, *Royal Society*, London, UK
+`2017`
+- Cisco Incubator 5.0
+`2018`
+- Certified LabVIEW Associate Developer (CLAD) 
+- Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)
+`2019` 
+- Cisco Certified Network Associate (CCNA-R&S) 
+- Cisco Certified Network Professional (CCNP-R&S)
+`2020` 
+- Cisco Certified Network Professional (CCNP-Enterprise) 
+`2021`
+- Cisco Certified DevNet Associate
+`2022`
+- NSE 4 Network Security Professional
 
-Associate, *French Academy of Science*, Paris, France
+
+## Trainings
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
