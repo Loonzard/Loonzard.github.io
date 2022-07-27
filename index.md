@@ -37,7 +37,7 @@ __Illinois Institute of Technology, Chicago, IL.__
 - M.A.S in Cyber Forensics and Security
 
 
-
+<!--
 ## Certifications
 
 `2018`
@@ -55,7 +55,7 @@ __Illinois Institute of Technology, Chicago, IL.__
 
 `2022`
 - NSE 4 Network Security Professional
-
+-->
 
 
 ## Trainings
