@@ -10,7 +10,6 @@ Network Engineer, IIT Grad Student
 | <a href="https://www.linkedin.com/in/tomas-granickas-02b422ba/">My LinkedIn page</a>
 </div>
 
-
 ## Currently
 
 Graduate Student of Cyber Forensics and Security (M.A.S.) at Illinois Insitute of Technology
@@ -27,7 +26,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`2015-2020`
+`2015 - 2020`
 __AGH University of Science and Technology, Kraków, Poland.__
 
 - BSc in Electronics and Telecommunications
@@ -43,15 +42,20 @@ __Illinois Institute of Technology, Chicago, IL.__
 
 `2018`
 - Certified LabVIEW Associate Developer (CLAD) 
+
 `2019` 
 - Cisco Certified Network Associate (CCNA-R&S) 
 - Cisco Certified Network Professional (CCNP-R&S)
+
 `2020` 
 - Cisco Certified Network Professional (CCNP-Enterprise) 
+
 `2021`
 - Cisco Certified DevNet Associate
+
 `2022`
 - NSE 4 Network Security Professional
+
 
 
 ## Trainings
