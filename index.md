@@ -41,11 +41,8 @@ __Illinois Institute of Technology, Chicago, IL.__
 
 ## Certifications
 
-`2017`
-- Cisco Incubator 5.0
 `2018`
 - Certified LabVIEW Associate Developer (CLAD) 
-- Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)
 `2019` 
 - Cisco Certified Network Associate (CCNA-R&S) 
 - Cisco Certified Network Professional (CCNP-R&S)
@@ -59,6 +56,10 @@ __Illinois Institute of Technology, Chicago, IL.__
 
 ## Trainings
 
+`2017`
+- Cisco Incubator 5.0
+`2018`
+- Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)
 
 
 ### Journals
