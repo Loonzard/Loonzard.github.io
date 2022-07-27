@@ -62,6 +62,7 @@ __Illinois Institute of Technology, Chicago, IL.__
 
 `2017`
 - Cisco Incubator 5.0
+
 `2018`
 - Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)
 
