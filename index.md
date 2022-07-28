@@ -32,7 +32,7 @@ __AGH University of Science and Technology, Kraków, Poland.__
 - BSc in Electronics and Telecommunications
 - Diploma thesis in "Performance Analysis of Multihop IEEE 802.11ax Networks"
 
-`August 2022 - now`
+`Aug 2022 - now`
 __Illinois Institute of Technology, Chicago, IL.__
 
 - M.A.S in Cyber Forensics and Security
@@ -70,12 +70,12 @@ __Illinois Institute of Technology, Chicago, IL.__
 
 ## Occupation
 
-`September 2017 - September 2018`
+`Sep 2017 - Sep 2018`
 __Customer support representative__, Marketing Investment Group - Kraków, Poland
 
 - Customer support representative
 
-`February 2019 - August 2021`
+`Feb 2019 - Aug 2021`
 __Network Consulting Engineer__, Cisco Systems Poland - Kraków, Poland
 
 - 
