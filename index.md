@@ -72,13 +72,13 @@ __Illinois Institute of Technology__ Chicago, IL.
 
 `Sep 2017 - Sep 2018`
 __Customer support representative__ 
-Marketing Investment Group - Kraków, Poland
+- Marketing Investment Group - Kraków, Poland
 
 - Customer support representative
 
 `Feb 2019 - Aug 2021`
 __Network Consulting Engineer__
-Cisco Systems Poland - Kraków, Poland
+- Cisco Systems Poland - Kraków, Poland
 
 - 
 
