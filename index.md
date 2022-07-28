@@ -16,7 +16,7 @@ Graduate Student of Cyber Forensics and Security (M.A.S.) at Illinois Insitute o
 
 ### Specialized in
 
-Customer Experience Specialist, 
+TCP/IP Networking, MPLS, Routing & Switching, Customer support, 
 
 
 ### Research interests
@@ -74,7 +74,6 @@ __Illinois Institute of Technology, Chicago, IL.__
 __Marketing Investment Group S.A.__, Kraków, Poland
 
 - Customer support representative
-- Minted coins
 
 `February 2019 - August 2021`
 __Lucasian professor of Mathematics__, Cambridge University
