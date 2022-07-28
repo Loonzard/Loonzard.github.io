@@ -21,7 +21,7 @@ TCP/IP Networking, MPLS, Routing & Switching, Wi-Fi, Customer Support, Customer 
 
 ### Research interests
 
-Computer Networks, Multicast, Hardware Development, Automatization
+Computer Networks, Multicast, Hardware Development, Automation
 
 
 ## Education
@@ -83,7 +83,9 @@ Marketing Investment Group - Kraków, Poland
 __Network Consulting Engineer__  
 Cisco Systems Poland - Kraków, Poland  
 
-- cyc
+- Organised internal training sessions for automation tools
+- Supported customers by providing deliverables and hosting information exchange sessions
+- Troubleshot customer networks
 
 `Aug 2021 - Aug 2022`
 __Senior Network Engineer__   
