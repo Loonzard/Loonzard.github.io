@@ -90,8 +90,9 @@ Telia Lithuania - Vilnius, Lithuania
 - Supported existed customer infrastructure
 - Monitored customer networks, compiled data reports for customers
 
-## Languages
+<!--
 
+## Languages
 
 - English 
 - German (Basic)
@@ -99,6 +100,7 @@ Telia Lithuania - Vilnius, Lithuania
 - Lithuanian
 - Russian
 
+-->
 
 <!-- ### Footer
 
