@@ -16,7 +16,7 @@ Graduate Student of Cyber Forensics and Security (M.A.S.) at Illinois Insitute o
 
 ### Specialized in
 
-TCP/IP Networking, MPLS, Routing & Switching, Customer support, 
+TCP/IP Networking, MPLS, Routing & Switching, Wi-Fi, Customer Support, Customer Experience 
 
 
 ### Research interests
