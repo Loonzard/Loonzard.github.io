@@ -86,7 +86,9 @@ Cisco Systems Poland - Kraków, Poland
 __Senior Network Engineer__   
 Telia Lithuania - Vilnius, Lithuania  
 
-- cyc
+- Drafted network designs for new customer locations
+- Supported existed customer infrastructure
+- Monitored customer networks, compiled data reports for customers
 
 ## Languages
 
