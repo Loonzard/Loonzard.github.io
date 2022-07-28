@@ -41,6 +41,9 @@ __Illinois Institute of Technology__ Chicago, IL.
 <!--
 ## Certifications
 
+= See my [LinkedIn page](http://en.wikipedia.org/wiki/Robert_Hooke)
+
+
 `2018`
 - Certified LabVIEW Associate Developer (CLAD) 
 
@@ -71,8 +74,8 @@ __Illinois Institute of Technology__ Chicago, IL.
 ## Occupation
 
 `Sep 2017 - Sep 2018`
-__Customer support representative__ 
-- Marketing Investment Group - Kraków, Poland
+__Customer support representative__   
+Marketing Investment Group - Kraków, Poland
 
 - Customer support representative
 
