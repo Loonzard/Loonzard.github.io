@@ -73,7 +73,7 @@ __Illinois Institute of Technology__ Chicago, IL.
 
 `Sep 2017 - Sep 2018`
 __Customer support representative__   
-Marketing Investment Group - Kraków, Poland
+Marketing Investment Group - Kraków, Poland  
 
 - Customer support representative
 
