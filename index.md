@@ -16,12 +16,12 @@ Graduate Student of Cyber Forensics and Security (M.A.S.) at Illinois Insitute o
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Customer Experience Specialist, 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Computer Networks, Multicast, Hardware Development, Automatization
 
 
 ## Education
@@ -69,13 +69,13 @@ __Illinois Institute of Technology, Chicago, IL.__
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`September 2017 - September 2018`
+__Marketing Investment Group S.A.__, Kraków, Poland
 
-- Warden
+- Customer support representative
 - Minted coins
 
-`1600`
+`February 2019 - August 2021`
 __Lucasian professor of Mathematics__, Cambridge University
 
 
