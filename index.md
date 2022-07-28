@@ -78,9 +78,8 @@ __Customer support representative__
 
 `Feb 2019 - Aug 2021`
 __Network Consulting Engineer__
-- Cisco Systems Poland - Kraków, Poland
+__Cisco Systems Poland - Kraków, Poland__
 
-- 
 
 ## Languages
 
