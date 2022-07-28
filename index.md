@@ -66,7 +66,7 @@ __Illinois Institute of Technology__ Chicago, IL.
 
 `2018`  
 - Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)     
-- For industry certifications, please see my **[LinkedIn page]**(https://www.linkedin.com/in/tomas-granickas-02b422ba/)
+- For industry certifications, please see my [LinkedIn page](https://www.linkedin.com/in/tomas-granickas-02b422ba/)
 
 ## Occupation
 
