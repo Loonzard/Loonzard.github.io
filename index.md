@@ -80,12 +80,16 @@ Marketing Investment Group - Kraków, Poland
 - Customer support representative
 
 `Feb 2019 - Aug 2021`
-__Network Consulting Engineer__
-__Cisco Systems Poland - Kraków, Poland__
+__Network Consulting Engineer__  
+Cisco Systems Poland - Kraków, Poland  
+
+- cyc
 
 `Aug 2021 - Aug 2022`
-__Senior Network Engineer__
-__Telia Lithuania - Vilnius, Lithuania__
+__Senior Network Engineer__   
+Telia Lithuania - Vilnius, Lithuania  
+
+- cyc
 
 ## Languages
 
