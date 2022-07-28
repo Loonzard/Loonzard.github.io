@@ -71,13 +71,14 @@ __Illinois Institute of Technology, Chicago, IL.__
 ## Occupation
 
 `September 2017 - September 2018`
-__Marketing Investment Group S.A.__, Kraków, Poland
+__Customer support representative__, Marketing Investment Group - Kraków, Poland
 
 - Customer support representative
 
 `February 2019 - August 2021`
-__Lucasian professor of Mathematics__, Cambridge University
+__Network Consulting Engineer__, Cisco Systems Poland - Kraków, Poland
 
+- 
 
 ## Languages
 
