@@ -41,7 +41,7 @@ __Illinois Institute of Technology__ Chicago, IL.
 
 ## Certifications
 
-- See my [LinkedIn page](https://www.linkedin.com/in/tomas-granickas-02b422ba/)
+- See my **[LinkedIn page]**(https://www.linkedin.com/in/tomas-granickas-02b422ba/)
 
 <!--
 `2018`
