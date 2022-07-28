@@ -72,7 +72,7 @@ __Illinois Institute of Technology__ Chicago, IL.
 __Customer Support Representative__   
 Marketing Investment Group - Kraków, Poland  
 
-- Assisted customers with questions regarding our products, entered data, and corrected orders.
+- Assisted customers with questions regarding our products, entered data and corrected orders.
 
 `Feb 2019 - Aug 2021`
 __Network Consulting Engineer__  
@@ -87,7 +87,7 @@ __Senior Network Engineer__
 Telia Lithuania - Vilnius, Lithuania  
 
 - Drafted network designs for new customer locations
-- Supported existed customer infrastructure
+- Supported existing customer infrastructure
 - Monitored customer networks, compiled data reports for customers
 
 <!--
