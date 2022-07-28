@@ -38,12 +38,9 @@ __Illinois Institute of Technology__ Chicago, IL.
 - M.A.S in Cyber Forensics and Security
 
 
-
+<!--
 ## Certifications
 
-
-
-<!--
 `2018`
 - Certified LabVIEW Associate Developer (CLAD) 
 
