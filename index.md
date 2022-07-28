@@ -61,11 +61,11 @@ __Illinois Institute of Technology__ Chicago, IL.
 
 ## Trainings and Certifications
 
-`2017`
-- Cisco Incubator 5.0 (Soft Skills, Networking)
+`2017`  
+- Cisco Incubator 5.0 (Soft Skills, Networking)  
 
-`2018`
-- Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)   
+`2018`  
+- Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)     
 
 - For industry certifications, please see my **[LinkedIn page]**(https://www.linkedin.com/in/tomas-granickas-02b422ba/)
 
