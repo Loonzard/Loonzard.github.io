@@ -81,6 +81,9 @@ Marketing Investment Group - Kraków, Poland
 __Network Consulting Engineer__
 __Cisco Systems Poland - Kraków, Poland__
 
+`Aug 2021 - Aug 2022`
+__Senior Network Engineer__
+__Telia Lithuania - Vilnius, Lithuania__
 
 ## Languages
 
