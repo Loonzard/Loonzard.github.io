@@ -30,6 +30,7 @@ Computer Networks, Multicast, Hardware Development, Automatization
 __AGH University of Science and Technology, Kraków, Poland.__
 
 - BSc in Electronics and Telecommunications
+- Diploma thesis in "Performance Analysis of Multihop IEEE 802.11ax Networks"
 
 `August 2022 - now`
 __Illinois Institute of Technology, Chicago, IL.__
