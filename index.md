@@ -38,12 +38,12 @@ __Illinois Institute of Technology__ Chicago, IL.
 - M.A.S in Cyber Forensics and Security
 
 
-<!--
+
 ## Certifications
 
-= See my [LinkedIn page](http://en.wikipedia.org/wiki/Robert_Hooke)
+- See my [LinkedIn page](https://www.linkedin.com/in/tomas-granickas-02b422ba/)
 
-
+<!--
 `2018`
 - Certified LabVIEW Associate Developer (CLAD) 
 
