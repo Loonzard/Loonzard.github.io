@@ -27,13 +27,13 @@ Computer Networks, Multicast, Hardware Development, Automatization
 ## Education
 
 `2015 - 2020`
-__AGH University of Science and Technology, Kraków, Poland.__
+__AGH University of Science and Technology__ Kraków, Poland.
 
 - BSc in Electronics and Telecommunications
 - Diploma thesis in "Performance Analysis of Multihop IEEE 802.11ax Networks"
 
 `Aug 2022 - now`
-__Illinois Institute of Technology, Chicago, IL.__
+__Illinois Institute of Technology__ Chicago, IL.
 
 - M.A.S in Cyber Forensics and Security
 
@@ -62,7 +62,7 @@ __Illinois Institute of Technology, Chicago, IL.__
 ## Trainings
 
 `2017`
-- Cisco Incubator 5.0
+- Cisco Incubator 5.0 (Soft Skills, Networking)
 
 `2018`
 - Nokia Academy Participant (Cellular Networks, 4G, Python, Linux)
@@ -71,12 +71,14 @@ __Illinois Institute of Technology, Chicago, IL.__
 ## Occupation
 
 `Sep 2017 - Sep 2018`
-__Customer support representative__, Marketing Investment Group - Kraków, Poland
+__Customer support representative__ 
+Marketing Investment Group - Kraków, Poland
 
 - Customer support representative
 
 `Feb 2019 - Aug 2021`
-__Network Consulting Engineer__, Cisco Systems Poland - Kraków, Poland
+__Network Consulting Engineer__
+Cisco Systems Poland - Kraków, Poland
 
 - 
 
